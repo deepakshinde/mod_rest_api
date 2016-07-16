@@ -1,16 +1,16 @@
 # ModRestApi for Ejabberd Xmpp server
 
-	Ruby interface to ejabberd's https://github.com/processone/ejabberd-contrib/tree/master/mod_rest
+Ruby interface to ejabberd's https://github.com/processone/ejabberd-contrib/tree/master/mod_rest
 
 This allows to:
 
-	Register a new user
-	Unregister a user
-	Check status
-	Change password
-	Check all online user 
+  Register a new user
+  Unregister a user
+  Check status
+  Change password
+  Check all online user 
   Check all registered_users
-	Send message to another user
+  Send message to another user
 
 TODO: Write a gem description
 
