@@ -4,13 +4,13 @@ Ruby interface to ejabberd's https://github.com/processone/ejabberd-contrib/tree
 
 This allows to:
 
-  Register a new user
-  Unregister a user
-  Check status
-  Change password
-  Check all online user 
-  Check all registered_users
-  Send message to another user
+  * Register a new user
+  * Unregister a user
+  * Check status
+  * Change password
+  * Check all online user 
+  * Check all registered_users
+  * Send message to another user
 
 TODO: Write a gem description
 
